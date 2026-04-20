@@ -170,7 +170,8 @@ Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 ### 문의 채팅 (ChatForm)
 
 
-<img width="800" height="500" alt="메신저 사용자" src="https://github.com/user-attachments/assets/feaba354-ddcd-4809-a73a-1be99fb38012" />
+<img width="800" height="500" alt="키보드설정" src="https://github.com/user-attachments/assets/46d5485a-546e-48ff-ba51-a87eba4e2d66" />
+
 
 
 
