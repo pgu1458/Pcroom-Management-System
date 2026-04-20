@@ -14,7 +14,8 @@
 ### 로그인 / 회원가입 (UserPcLogin)
 
 
-<img width="800" height="500" alt="KakaoTalk_20260420_185357332_04" src="https://github.com/user-attachments/assets/e195b29c-1a11-43bb-b96f-db5c353f035a" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/8d7823d3-120d-4b11-9d43-e1dea0f764f2" />
+
 
 
 
