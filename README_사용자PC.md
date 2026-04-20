@@ -167,7 +167,8 @@ Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 ### 문의 채팅 (ChatForm)
 
 
-<img width="800" height="500" alt="KakaoTalk_20260420_185357332_03" src="https://github.com/user-attachments/assets/d87ec965-0feb-4720-915c-6864fdb2c66b" />
+<img width="800" height="500" alt="메신저" src="https://github.com/user-attachments/assets/62a1d291-f210-4869-b797-94f225572b67" />
+
 
 
 
