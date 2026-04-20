@@ -18,11 +18,13 @@
 
 ### 키오스크 ↔ 관리자
 
-<img width="1036" height="590" alt="KakaoTalk_20260420_185357332" src="https://github.com/user-attachments/assets/adc81621-b57a-4af3-901d-5927b5dd1348" />
+<img width="1036" height="515" alt="KakaoTalk_20260420_185357332" src="https://github.com/user-attachments/assets/80ae9f1d-4eab-465c-819a-1920bc3726a8" />
+
 
 ### 사용자 PC ↔ 관리자
 
-![사용자PC-관리자 구성도](screenshots/userpc_architecture.png)
+<img width="1043" height="494" alt="KakaoTalk_20260420_185357332_11" src="https://github.com/user-attachments/assets/7c61bc70-cd06-4047-90b8-a5c7fdf88f8f" />
+
 
 ---
 
