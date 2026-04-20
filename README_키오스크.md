@@ -65,7 +65,8 @@
 
 ### 결제 (Pay / Credit / KaKao / Npay)
 
-<img width="600" height="400" alt="키오스크 결제확인" src="https://github.com/user-attachments/assets/f8ff7b49-60fa-42af-b094-508f9286a038" />
+<img width="600" height="400" alt="키오스크 결제확인" src="https://github.com/user-attachments/assets/db16a8c3-7def-42ed-bdd7-0138a9d89f8f" />
+
 
 
 - 신용카드, 카카오페이, 네이버페이 지원
