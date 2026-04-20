@@ -1,3 +1,4 @@
+
 # 🖥️ 피씨방 통합 관리 시스템
 
 > C# WinForms + TCP/IP 기반의 피씩방 통합 관리 솔루션  
@@ -17,7 +18,7 @@
 
 ### 키오스크 ↔ 관리자
 
-![키오스크-관리자 구성도](screenshots/kiosk_architecture.png)
+<img width="1036" height="590" alt="KakaoTalk_20260420_185357332" src="https://github.com/user-attachments/assets/adc81621-b57a-4af3-901d-5927b5dd1348" />
 
 ### 사용자 PC ↔ 관리자
 
