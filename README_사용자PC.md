@@ -58,7 +58,8 @@
 ### 메인 화면 (UserPcMain)
 
 
-<img width="800" height="500" alt="KakaoTalk_20260420_185357332_03" src="https://github.com/user-attachments/assets/c462077f-1fb7-426a-abe7-dd308f2ab7b8" />
+<img width="800" height="500" alt="메인창" src="https://github.com/user-attachments/assets/b2fb36de-75e4-460e-b416-b9b392af6a1c" />
+
 
 
 
