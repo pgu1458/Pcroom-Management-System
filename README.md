@@ -18,12 +18,12 @@
 
 ### 키오스크 ↔ 관리자
 
-<img width="500" height="500" alt="KakaoTalk_20260420_185357332" src="https://github.com/user-attachments/assets/80ae9f1d-4eab-465c-819a-1920bc3726a8" />
+<img width="800" height="300" alt="KakaoTalk_20260420_185357332" src="https://github.com/user-attachments/assets/80ae9f1d-4eab-465c-819a-1920bc3726a8" />
 
 
 ### 사용자 PC ↔ 관리자
 
-<img width="500" height="500" alt="KakaoTalk_20260420_185357332_11" src="https://github.com/user-attachments/assets/7c61bc70-cd06-4047-90b8-a5c7fdf88f8f" />
+<img width="800" height="300" alt="KakaoTalk_20260420_185357332_11" src="https://github.com/user-attachments/assets/7c61bc70-cd06-4047-90b8-a5c7fdf88f8f" />
 
 
 ---
