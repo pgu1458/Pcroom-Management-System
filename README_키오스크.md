@@ -8,11 +8,26 @@
 ## 주요 기능
 
 ### 메인 화면 (Form1)
+
+<img width="600" height="400" alt="키오스크로그인" src="https://github.com/user-attachments/assets/7a838165-7a7a-4e55-ba3a-4a378291acde" />
+
+
+
+
+
 - 충전 버튼 → 로그인 화면으로 전환
 - 좌석 현황 버튼 → 전체 50석 실시간 현황 화면으로 전환
 - 전체 화면 고정, ESC로 종료
 
+
+
 ### 좌석 현황 (KioskSeat)
+
+
+<img width="600" height="400" alt="키오스크 좌석" src="https://github.com/user-attachments/assets/2caccc04-8b5f-47fe-a55a-4cc2081e2b46" />
+
+
+
 - 50개 좌석 상태 실시간 표시
   - 사용 중: 파란색 + 남은시간 카운트다운
   - 비어있음: 검은색
@@ -20,12 +35,19 @@
 - 서버 연결 끊기면 5초마다 자동 재연결
 - 로그아웃 버튼 → TCP 연결 해제 후 프로그램 재시작
 
+
+
 ### 로그인 (KioskLogin)
 - 아이디 / 비밀번호 입력 후 9002 포트로 인증 요청
 - 엔터 키 로그인 지원
 - 로그인 성공 시 Member_Charge 화면으로 자동 전환
 
+
 ### 회원 충전 (Member_Charge)
+
+<img width="600" height="400" alt="키오스크 결제" src="https://github.com/user-attachments/assets/3a1ce59d-8061-4afb-9080-7be9bfaa0df3" />
+
+
 - 로그인한 회원의 아이디, 이름, 현재 남은시간 표시
 - 충전 시간 5가지 선택
 
@@ -40,7 +62,12 @@
 - 결제 수단 선택 후 결제 폼(Pay) 실행
 - 결제 완료 후 서버에 CHARGE 요청 → 충전 성공 시 프로그램 재시작
 
+
 ### 결제 (Pay / Credit / KaKao / Npay)
+
+<img width="600" height="400" alt="키오스크 결제확인" src="https://github.com/user-attachments/assets/f8ff7b49-60fa-42af-b094-508f9286a038" />
+
+
 - 신용카드, 카카오페이, 네이버페이 지원
 - 30초 카운트다운 타이머
   - 15초 이후: 노란색 경고
