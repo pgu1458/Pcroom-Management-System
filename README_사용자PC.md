@@ -58,7 +58,8 @@
 ### 메인 화면 (UserPcMain)
 
 
-<img width="800" height="500" alt="메인창" src="https://github.com/user-attachments/assets/b2fb36de-75e4-460e-b416-b9b392af6a1c" />
+<img width="800" height="500" alt="메인" src="https://github.com/user-attachments/assets/ab56daae-2da2-42a2-baf3-98aba866523d" />
+
 
 
 
@@ -167,7 +168,8 @@ Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 ### 문의 채팅 (ChatForm)
 
 
-<img width="800" height="500" alt="메신저" src="https://github.com/user-attachments/assets/62a1d291-f210-4869-b797-94f225572b67" />
+<img width="800" height="500" alt="메신저 사용자" src="https://github.com/user-attachments/assets/feaba354-ddcd-4809-a73a-1be99fb38012" />
+
 
 
 
