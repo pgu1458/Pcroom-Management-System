@@ -58,7 +58,8 @@
 ### 메인 화면 (UserPcMain)
 
 
-<img width="800" height="500" alt="메인" src="https://github.com/user-attachments/assets/ab56daae-2da2-42a2-baf3-98aba866523d" />
+<img width="800" height="500" alt="메인" src="https://github.com/user-attachments/assets/6aae32cf-2106-4a01-be01-3e3cd1a7ba15" />
+
 
 
 
@@ -134,7 +135,8 @@ Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 ### 음식 주문 (Menu)
 
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c33f284f-977b-4dce-b62b-47c08328cbc4" />
+<img width="800" height="500" alt="사용자 음식주문" src="https://github.com/user-attachments/assets/3e49d48c-dfd6-471b-beb1-10a16c4770e1" />
+
 
 
 
