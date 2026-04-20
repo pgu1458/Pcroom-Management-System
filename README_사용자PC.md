@@ -109,6 +109,10 @@
 **PC 설정 바로가기**
 
 
+<img width="800" height="500" alt="KakaoTalk_20260420_200533138" src="https://github.com/user-attachments/assets/528a8993-ba43-4818-b5df-19a567f0fac2" />
+
+
+
 Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 
 
@@ -127,6 +131,12 @@ Windows 설정 항목들을 버튼 하나로 즉시 열 수 있습니다.
 
 
 ### 음식 주문 (Menu)
+
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c33f284f-977b-4dce-b62b-47c08328cbc4" />
+
+
+
 
 
 주문 버튼을 누르면 Menu 폼이 팝업으로 실행됩니다. 상단에 카테고리별 탭이 있고, 각 탭에서 메뉴 버튼을 클릭하면 하단 장바구니(ListView)에 추가됩니다.
