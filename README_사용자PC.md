@@ -14,7 +14,8 @@
 ### 로그인 / 회원가입 (UserPcLogin)
 
 
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/8d7823d3-120d-4b11-9d43-e1dea0f764f2" />
+<img width="428" height="489" alt="스크린샷 2026-04-20 195603" src="https://github.com/user-attachments/assets/9e5d3c46-348a-4ff8-8388-55c389cc1f4f" />
+
 
 
 
