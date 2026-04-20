@@ -31,7 +31,8 @@
 ### 좌석 관리
 
 
-<img width="800" height="500" alt="좌석관리" src="https://github.com/user-attachments/assets/5576e3c1-ce90-4353-bac6-e864cb942075" />
+<img width="800" height="500" alt="관리자 좌석정보" src="https://github.com/user-attachments/assets/00c00646-b1ad-48e1-a81d-20b188a94f4e" />
+
 
 
 
