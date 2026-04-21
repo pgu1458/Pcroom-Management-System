@@ -5,7 +5,8 @@
 > 모블융합2기 5인 팀 프로젝트
 
 
-https://youtu.be/eAQMOYcSDC8
+시연 영상 : https://youtu.be/eAQMOYcSDC8
+
 ---
 
 ## 프로젝트 소개
