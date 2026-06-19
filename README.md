@@ -145,9 +145,8 @@ if (payResult != DialogResult.OK) return;  // 취소·타임아웃이면 충전 
 
 결제 완료 시 서버에 `CHARGE|id|addSeconds` 전송, 응답으로 새 남은시간을 받아 표시한 뒤 **TCP 연결 해제 → 로컬 세션 초기화 → 프로그램 자동 재시작**으로 다음 손님을 위해 첫화면으로 돌립니다.
 
-[사진: 충전 옵션 5개 + 결제 수단 3종 화면]
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b67ebb6d-ea4e-42d4-b3b4-61420fc61b66" />
 
-[사진: 결제 모달 — 30초 카운트다운이 빨간색으로 변한 순간]
 
 ---
 
